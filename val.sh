@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES="0" python val.py -d="0" -e="/home/xiaozhongyu/mm/select-main/log_NYUDepthv2_mit_b4/tb/Oct28_28-16-01-53/checkpoint/epoch.pth" --save_path="./eval_result/"
