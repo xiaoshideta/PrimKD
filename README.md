@@ -87,7 +87,9 @@ If you find this work useful for your research, please cite our paper:
 @inproceedings{hao2024primkd,
   title={PrimKD: Primary Modality Guided Multimodal Fusion for RGB-D Semantic Segmentation},
   author={Hao, Zhiwei and Xiao, Zhongyu and Luo, Yong and Guo, Jianyuan and Wang, Jing and Shen, Li and Hu, Han},
-  booktitle={ACM Multimedia 2024}
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={1943--1951},
+  year={2024}
 }
 ```
 
