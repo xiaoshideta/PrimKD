@@ -1,6 +1,6 @@
 # PrimKD: Primary Modality Guided Multimodal Fusion for RGB-D Semantic Segmentation (ACM MM 2024)
 
-This is the official implementation of our paper  **[PrimKD: Primary Modality Guided Multimodal Fusion for RGB-D Semantic Segmentation]([https://openreview.net/pdf?id=ilAV4kFBrM](https://dl.acm.org/doi/pdf/10.1145/3664647.3681253))**.
+This is the official implementation of our paper  **[PrimKD: Primary Modality Guided Multimodal Fusion for RGB-D Semantic Segmentation](https://dl.acm.org/doi/pdf/10.1145/3664647.3681253))**.
 
 Authors: Zhiwei Hao, Zhongyu Xiao, Yong Luo, Jianyuan Guo, Jing Wang, Li Shen, Han Hu
 
